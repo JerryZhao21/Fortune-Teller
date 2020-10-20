@@ -1,0 +1,24 @@
+.code {
+    text-align: center;
+}
+
+.endmessage {
+    text-align: center;
+    color: white;
+}
+
+.code {
+    background-color: lightblue;
+    border: solid black 5px;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+body {
+    background-color: black;
+}
+
+.title {
+    color: white;
+    text-align: center;
+}
